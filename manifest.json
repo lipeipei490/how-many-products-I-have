@@ -2,7 +2,7 @@
   "name": "产品库存管家",
   "short_name": "产品库存管家",
   "description": "简单易用的库存管理应用",
- "start_url": "index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
